@@ -1,0 +1,21 @@
+.carousel-item img
+{
+    opacity: 0.3;
+}
+
+.carousel-item p{
+    color: #000;
+}
+
+.carousel-item h5{
+    color: #000;
+}
+
+.login-area
+{
+    width: 60%;
+    margin: 0 auto;
+    border: #d1d1d1 1px solid;
+    border-radius: 10px;
+    padding: 4%;
+}
